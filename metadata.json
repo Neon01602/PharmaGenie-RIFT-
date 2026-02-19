@@ -1,0 +1,5 @@
+{
+  "name": "PharmaGenie: AI Pharmacogenomic Analyzer",
+  "description": "Analyze patient VCF files to predict drug-specific risks and provide clinical recommendations based on genetic variants.",
+  "requestFramePermissions": []
+}
